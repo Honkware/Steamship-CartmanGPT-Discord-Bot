@@ -35,16 +35,16 @@ git clone https://github.com/yourusername/cartmangpt-discord-bot.git
 cd cartmangpt-discord-bot
 ```
 
-2. Authenticate with Steamship by running the following command and providing your API key:
-
-```bash
-ship login
-```
-
-3. Install the required Python packages:
+2. Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
+
+3. Authenticate with Steamship by running the following command and providing your API key:
+
+```bash
+ship login
 ```
 
 4. Create a `.env` file in the project folder with the following content:
@@ -68,16 +68,16 @@ Replace `your-instance-handle` and `your-discord-bot-token` with the actual valu
 
 Replace `your-instance-handle`, `your-discord-bot-token`, and `your-steamship-api-key` with the actual values.
 
-3. Authenticate with Steamship by running the following command in the Replit shell and providing your API key:
-
-```bash
-ship login
-```
-
-4. Install the required Python packages by running the following command in the Replit shell:
+3. Install the required Python packages by running the following command in the Replit shell:
 
 ```bash
 pip install -r requirements.txt
+```
+
+4. Authenticate with Steamship by running the following command in the Replit shell and providing your API key:
+
+```bash
+ship login
 ```
 
 ## Running the Bot
